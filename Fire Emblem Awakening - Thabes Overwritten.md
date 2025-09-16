@@ -24,7 +24,7 @@ If despite this code are still broken, an update to Thabes or UGA might have bro
 Please create an issue [here](https://github.com/Nokhal/Citra-ArCodes/issues) to report the problem. Or do a PR if you also fixed it.
 
 ## Cheats
-You'll notice the item offset is equal to it's hex Item id * 2, so if any item is missing feel free to craft your own codes
+You'll notice the item offset is equal to it's hex Item id * 2, so if any item you want is missing feel free to craft your own codes          
 You can copy paste the content below directly in your *cheat/00040000000A0500.txt* file
 
 
