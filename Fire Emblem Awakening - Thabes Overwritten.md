@@ -24,7 +24,7 @@ If despite this code are still broken, an update to Thabes or UGA might have bro
 Please create an issue [here](https://github.com/Nokhal/Citra-ArCodes/issues) to report the problem. Or do a PR if you also fixed it.
 
 ## Cheats
-You'll notice the item offset is equal to it's hex Item id * 2, so if any item you want is missing feel free to craft your own codes          
+You'll notice the item offset is equal to it's hex Item id * 2, so if any item you want is missing feel free to craft your own codes.           
 You can copy paste the content below directly in your *cheat/00040000000A0500.txt* file
 
 
@@ -77,7 +77,6 @@ You can copy paste the content below directly in your *cheat/00040000000A0500.tx
     604D0C7C 00000000
     B04D0C7C 00000000
     10000160 00000063
-
     
     [Seed of Trust x 99]
     604D0C7C 00000000
@@ -85,56 +84,69 @@ You can copy paste the content below directly in your *cheat/00040000000A0500.tx
     10000176 00000063
     
     [Iote's Shield x 99]
-    D3000000 15367692
-    100002E8 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000182 00000063
     
     [Limit Breaker x 99]
-    D3000000 15367692
-    100002EA 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000184 00000063
     
     [Dread Scroll x99]
-    D3000000 15367692
-    100002EE 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000188 00000063
     
     [Wedding Bouquet x 99]
-    D3000000 15367692
-    100002F0 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    1000018A 00000063
     
     [Thrift Scroll x 99]
-    D3000000 15367692
-    1000038E 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000228 00000063
     
     [Gale Scroll x 99]
-    D3000000 15367692
-    10000390 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    1000022A 00000063
     
     [Counter Scroll x 99]
-    D3000000 15367692
-    10000392 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    1000022C 00000063
     
     [Gamble Scroll x 99]
-    D3000000 15367692
-    10000394 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    1000022E 00000063
     
     [Pavise Scroll x 99]
-    D3000000 15367692
-    10000396 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000230 00000063
     
     [Renewal Scroll x 99]
-    D3000000 15367692
-    10000398 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000232 00000063
     
     [Miracle Scroll x 99]
-    D3000000 15367692
-    1000039A 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000234 00000063
     
     [Wrath Scroll x 99]
-    D3000000 15367692
-    1000039C 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000236 00000063
     
     [Vantage Scroll x 99]
-    D3000000 15367692
-    1000039E 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000238 00000063
 
 
 
