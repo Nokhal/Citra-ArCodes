@@ -12,7 +12,7 @@ All dlcs (install them trough a CIA file for example)
 
 ## Troubleshooting
 ### No code works
-You have most likely the wrong game version. Only the US version is supported.
+You have most likely the wrong game version. Only the US version is supported, all DLC installed, on no online content.
 
 ### Shader/XP/Move Twice code works but not gold/renown/items 
 Make sure only those two mods are installed (Uninstall USV if necessary, reinstall it later once you have cheated enough)      
