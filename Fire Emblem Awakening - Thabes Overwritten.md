@@ -1,6 +1,3 @@
-# WIP CURRENTLY REDOING THE ITEM USING POINTER RATHER THAN ABSOLUTE OFFSET
-
-
 # Fire Emblem Awakening - Thabes
 
 ## Setup
