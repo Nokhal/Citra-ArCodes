@@ -67,7 +67,7 @@ You can copy paste the content below directly in your *cheat/00040000000A0500.tx
     [Arms Scroll x 99]
     604D0C7C 00000000
     B04D0C7C 00000000
-    10000162 000000FA
+    10000162 00000063
     
     [Boots x 99]
     D3000000 15367692
