@@ -12,7 +12,7 @@ All dlcs (install them trough a CIA file for example)
 
 ## Troubleshooting
 ### No code works
-You have most likely the wrong game version. Only the US version is supported, all DLC installed, on no online content.
+You have most likely the wrong game version. Only the US version is supported, all DLC installed, and no online content.
 
 ### Shader/XP/Move Twice code works but not gold/renown/items 
 This is very strange, as i'm using pointers to pop the items. In fact, outside of Thabes exlusive items, the item code should work in vanilla awakening. 
