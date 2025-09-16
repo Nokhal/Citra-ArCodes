@@ -24,7 +24,9 @@ If despite this code are still broken, an update to Thabes or UGA might have bro
 Please create an issue [here](https://github.com/Nokhal/Citra-ArCodes/issues) to report the problem. Or do a PR if you also fixed it.
 
 ## Cheats
+You'll notice the item offset is equal to it's hex Item id * 2, so if any item is missing feel free to craft your own codes
 You can copy paste the content below directly in your *cheat/00040000000A0500.txt* file
+
 
      
     [IMPORTANT Shader fix]
@@ -57,12 +59,14 @@ You can copy paste the content below directly in your *cheat/00040000000A0500.tx
     009B2A74 0001869F
     
     [Master Seal x99]
-    D3000000 15367692
-    100002CA 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000164 00000063
     
     [Second Seal x99]
-    D3000000 15367692
-    100002CC 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000166 00000063
     
     [Arms Scroll x 99]
     604D0C7C 00000000
@@ -76,8 +80,9 @@ You can copy paste the content below directly in your *cheat/00040000000A0500.tx
 
     
     [Seed of Trust x 99]
-    D3000000 15367692
-    100002DC 00000063
+    604D0C7C 00000000
+    B04D0C7C 00000000
+    10000176 00000063
     
     [Iote's Shield x 99]
     D3000000 15367692
