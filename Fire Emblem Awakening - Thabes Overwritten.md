@@ -5,6 +5,8 @@ Citra/Mandarine Action Replay codes working for the following setup :
 
 Fire Emblem Awakening US  *00040000000A0500*
 
+All dlcs (install them trough a CIA file for example)
+
 [Thabes Overwritten](https://gamebanana.com/mods/555858) v0.1.2              
 [UGA](https://gamebanana.com/mods/424187) v8.5.1 installed following the exact instruction in Thabes Overwritten above     
 
