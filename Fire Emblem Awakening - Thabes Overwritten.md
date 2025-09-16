@@ -67,10 +67,6 @@ You can copy paste the content below directly in your *cheat/00040000000A0500.tx
     D3000000 15367692
     100002C6 00000063
     
-    [Boots x 99]
-    D3000000 15367692
-    100002C6 00000063
-    
     [Seed of Trust x 99]
     D3000000 15367692
     100002DC 00000063
