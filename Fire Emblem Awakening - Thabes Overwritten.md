@@ -9,6 +9,7 @@ All dlcs (install them trough a CIA file for example)
 
 [Thabes Overwritten](https://gamebanana.com/mods/555858) v0.1.2              
 [UGA](https://gamebanana.com/mods/424187) v8.5.1 installed following the exact instruction in Thabes Overwritten above     
+Nonetheless, most of those code should work for vanilla awakening.
 
 ## Troubleshooting
 ### No code works
